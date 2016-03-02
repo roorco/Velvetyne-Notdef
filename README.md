@@ -4,8 +4,8 @@ The .notdef is the character when a glyph is missing in a font. This one is made
 
 ## Specimen
 
-![notdef](https://github.com/velvetyne/notdef/blob/master/images/01.png)
-![notdef in text](https://github.com/velvetyne/notdef/blob/master/images/02.png)
+![notdef](https://github.com/velvetyne/Velvetyne-Notdef/blob/master/images/01.png)
+![notdef in text](https://github.com/velvetyne/Velvetyne-Notdef/blob/master/images/02.png)
 
 ## License
 
